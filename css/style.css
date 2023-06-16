@@ -93,13 +93,13 @@ height: 50vh;}
 }
 
 .header .navbar a:hover{
-    color: var(--main-color);
+    color: #0aaf86;
     
 }
 .header .navbar.active{display: block;}
 #menu-btn{
     cursor: pointer;
-    color:var(--black);
+    color:#0aaf86;
     font-size: 2.5rem;
     display: none;
     transition: .3s linear;
